@@ -1,3 +1,5 @@
+![Ooops](https://user-images.githubusercontent.com/85721310/217986264-90c18f68-366e-4e4c-a0f2-0793a032d9a5.png)
+
 # 💫 Acerca de mi:
 
 Este perfil estará lleno de mis proyectos a lo largo de mi vida estudiantil.
