@@ -9,23 +9,17 @@ Ahora tomo un nuevo rumbo en mi vida y me integro al grandioso mundo del desarro
 
 ### Tecnologias:
 ---
-![Django](https://img.shields.io/badge/python-django_4.2-a?style=for-the-badge&logo=python&logoColor=yellow&labelColor=dark&color=green&link=https%3A%2F%2Fwww.djangoproject.com%2F)
+[![Django](https://img.shields.io/badge/python-django_4.2-a?style=for-the-badge&logo=python&logoColor=yellow&labelColor=dark&color=green)](https://www.djangoproject.com)
 
-![Astro](https://img.shields.io/badge/JS-Astro_4-black?style=for-the-badge&logo=astro&logoColor=white&labelColor=yellow&link=https%3A%2F%2Fwww.astro.build/%2F)
+[![Astro](https://img.shields.io/badge/JS-Astro_4-black?style=for-the-badge&logo=astro&logoColor=white&labelColor=yellow)](https://astro.build/)
 
-![GCP](https://img.shields.io/badge/google-GCP-blue?style=for-the-badge&logo=google&logoColor=yellow&labelColor=red&link=https%3A%2F%2Fwww.cloud.google.com/%2F)
+[![GCP](https://img.shields.io/badge/google-GCP-blue?style=for-the-badge&logo=google&logoColor=yellow&labelColor=red)](https://cloud.google.com/?hl=es)
 
 ### Contáctame:
 ---
-![Instagram](https://img.shields.io/badge/intagram-follow-a?style=social&logo=instagram&logoColor=black&labelColor=red&link=https%3A%2F%2Fwww.instagram.com%2Fsebas_ebas%2F)
+[![Instagram](https://img.shields.io/badge/intagram-follow-a?style=social&logo=instagram&logoColor=black&labelColor=red)](https://www.linkedin.com/in/dev-seb/)
 
-![Linkedin](https://img.shields.io/badge/linkedin-follow-a?style=social&logo=linkedin&logoColor=black&labelColor=red&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdev-seb%2F)
-
-
-
-
-
-
+[![Linkedin](https://img.shields.io/badge/linkedin-follow-a?style=social&logo=linkedin&logoColor=black&labelColor=red)](https://www.instagram.com/sebas_ebas/)
 
 
 <p align="center">
