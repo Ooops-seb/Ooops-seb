@@ -23,5 +23,5 @@ Ahora tomo un nuevo rumbo en mi vida y me integro al grandioso mundo del desarro
 
 
 <p align="center">
-<span style="display: block; text-align: center;">Powered by <a href="https://seintec.com" target="_blank" rel="noopener noreferrer">Seintec</a></span>
+<span style="display: block; text-align: center;">Powered by <a href="https://www.seintec-ec.com" target="_blank" rel="noopener noreferrer">Seintec</a></span>
 </p>
