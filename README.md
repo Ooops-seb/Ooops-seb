@@ -17,9 +17,9 @@ Ahora tomo un nuevo rumbo en mi vida y me integro al grandioso mundo del desarro
 
 ### Contáctame:
 ---
-[![Instagram](https://img.shields.io/badge/intagram-follow-a?style=social&logo=instagram&logoColor=black&labelColor=red)](https://www.linkedin.com/in/dev-seb/)
+[![Instagram](https://img.shields.io/badge/intagram-follow-a?style=social&logo=instagram&logoColor=black&labelColor=red)](https://www.instagram.com/sebas_ebas/)
 
-[![Linkedin](https://img.shields.io/badge/linkedin-follow-a?style=social&logo=linkedin&logoColor=black&labelColor=red)](https://www.instagram.com/sebas_ebas/)
+[![Linkedin](https://img.shields.io/badge/linkedin-follow-a?style=social&logo=linkedin&logoColor=black&labelColor=red)](https://www.linkedin.com/in/dev-seb/)
 
 
 <p align="center">
