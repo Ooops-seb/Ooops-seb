@@ -7,13 +7,7 @@ Soy estudiante de ingeniería en Software ecuatoriano con gran pasión por conec
 
 Ahora tomo un nuevo rumbo en mi vida y me integro al grandioso mundo del desarrollo de software, conservando los valores que me han hecho llegar a donde estoy y, mejorando cada vez en la calidad de mi trabajo.
 
-### Tecnologias:
----
-[![Django](https://img.shields.io/badge/python-django_4.2-a?style=for-the-badge&logo=python&logoColor=yellow&labelColor=dark&color=green)](https://www.djangoproject.com)
 
-[![Astro](https://img.shields.io/badge/JS-Astro_4-black?style=for-the-badge&logo=astro&logoColor=white&labelColor=yellow)](https://astro.build/)
-
-[![GCP](https://img.shields.io/badge/google-GCP-blue?style=for-the-badge&logo=google&logoColor=yellow&labelColor=red)](https://cloud.google.com/?hl=es)
 
 ### Contáctame:
 ---
